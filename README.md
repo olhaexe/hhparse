@@ -1,6 +1,7 @@
 # hhparse
 
 Создание парсера данных HeadHunter.
+scrapy, xpath
 
 Ресурс: HH.ru.
 Регион не важен.
